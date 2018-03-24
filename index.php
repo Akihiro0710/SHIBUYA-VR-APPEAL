@@ -23,7 +23,7 @@
     <a-obj-model
         src="#obj"
         mtl="#mtl"
-        scale="0.005 0.005 0.005"
+        scale="1 1 1"
         position="0 0 0">
       <a-animation
           attribute="rotation"
