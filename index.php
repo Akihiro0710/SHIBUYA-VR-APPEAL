@@ -24,7 +24,7 @@
         src="#obj"
         mtl="#mtl"
         scale="0.005 0.005 0.005"
-        position="0 0.5 0">
+        position="0 0 0">
       <a-animation
           attribute="rotation"
           to="0 360 0"
