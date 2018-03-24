@@ -49,6 +49,7 @@
     var button = document.getElementById('like_button');
     button.appendChild(countHolder);
     button.addEventListener('click', function () {
+      count++;
       countHolder.innerText = count;
     })
   })();
