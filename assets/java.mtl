@@ -50,8 +50,8 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 0.990000
 illum 2
-map_Kd /Users/ta/Documents/assets/mmd/Javachan_Ver1.01/はしれ！コード学園JavaちゃんVer1.01/Javaちゃん/clothes1.png
-map_d /Users/ta/Documents/assets/mmd/Javachan_Ver1.01/はしれ！コード学園JavaちゃんVer1.01/Javaちゃん/clothes1.png
+map_Kd clothes1.png
+map_d clothes1.png
 
 newmtl 材質10
 Ns 96.078431
@@ -62,8 +62,8 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 0.990000
 illum 2
-map_Kd /Users/ta/Documents/assets/mmd/Javachan_Ver1.01/はしれ！コード学園JavaちゃんVer1.01/Javaちゃん/face.png
-map_d /Users/ta/Documents/assets/mmd/Javachan_Ver1.01/はしれ！コード学園JavaちゃんVer1.01/Javaちゃん/face.png
+map_Kd face.png
+map_d face.png
 
 newmtl 材質11
 Ns 96.078431
@@ -74,8 +74,8 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd /Users/ta/Documents/assets/mmd/Javachan_Ver1.01/はしれ！コード学園JavaちゃんVer1.01/Javaちゃん/hair.png
-map_d /Users/ta/Documents/assets/mmd/Javachan_Ver1.01/はしれ！コード学園JavaちゃんVer1.01/Javaちゃん/hair.png
+map_Kd hair.png
+map_d hair.png
 
 newmtl 材質12
 Ns 96.078431
@@ -86,8 +86,8 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd /Users/ta/Documents/assets/mmd/Javachan_Ver1.01/はしれ！コード学園JavaちゃんVer1.01/Javaちゃん/eye.png
-map_d /Users/ta/Documents/assets/mmd/Javachan_Ver1.01/はしれ！コード学園JavaちゃんVer1.01/Javaちゃん/eye.png
+map_Kd eye.png
+map_d eye.png
 
 newmtl 材質13
 Ns 96.078431
@@ -98,8 +98,8 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd /Users/ta/Documents/assets/mmd/Javachan_Ver1.01/はしれ！コード学園JavaちゃんVer1.01/Javaちゃん/face.png
-map_d /Users/ta/Documents/assets/mmd/Javachan_Ver1.01/はしれ！コード学園JavaちゃんVer1.01/Javaちゃん/face.png
+map_Kd face.png
+map_d face.png
 
 newmtl 材質14
 Ns 96.078431
@@ -110,8 +110,8 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd /Users/ta/Documents/assets/mmd/Javachan_Ver1.01/はしれ！コード学園JavaちゃんVer1.01/Javaちゃん/eye.png
-map_d /Users/ta/Documents/assets/mmd/Javachan_Ver1.01/はしれ！コード学園JavaちゃんVer1.01/Javaちゃん/eye.png
+map_Kd eye.png
+map_d eye.png
 
 newmtl 材質2
 Ns 96.078431
@@ -122,8 +122,8 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd /Users/ta/Documents/assets/mmd/Javachan_Ver1.01/はしれ！コード学園JavaちゃんVer1.01/Javaちゃん/clothes2.png
-map_d /Users/ta/Documents/assets/mmd/Javachan_Ver1.01/はしれ！コード学園JavaちゃんVer1.01/Javaちゃん/clothes2.png
+map_Kd clothes2.png
+map_d clothes2.png
 
 newmtl 材質3
 Ns 96.078431
@@ -134,8 +134,8 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd /Users/ta/Documents/assets/mmd/Javachan_Ver1.01/はしれ！コード学園JavaちゃんVer1.01/Javaちゃん/panties.png
-map_d /Users/ta/Documents/assets/mmd/Javachan_Ver1.01/はしれ！コード学園JavaちゃんVer1.01/Javaちゃん/panties.png
+map_Kd panties.png
+map_d panties.png
 
 newmtl 材質4
 Ns 96.078431
@@ -146,8 +146,8 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd /Users/ta/Documents/assets/mmd/Javachan_Ver1.01/はしれ！コード学園JavaちゃんVer1.01/Javaちゃん/skin.png
-map_d /Users/ta/Documents/assets/mmd/Javachan_Ver1.01/はしれ！コード学園JavaちゃんVer1.01/Javaちゃん/skin.png
+map_Kd skin.png
+map_d skin.png
 
 newmtl 材質5
 Ns 96.078431
@@ -158,8 +158,8 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd /Users/ta/Documents/assets/mmd/Javachan_Ver1.01/はしれ！コード学園JavaちゃんVer1.01/Javaちゃん/face.png
-map_d /Users/ta/Documents/assets/mmd/Javachan_Ver1.01/はしれ！コード学園JavaちゃんVer1.01/Javaちゃん/face.png
+map_Kd face.png
+map_d face.png
 
 newmtl 材質6
 Ns 96.078431
@@ -170,8 +170,8 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd /Users/ta/Documents/assets/mmd/Javachan_Ver1.01/はしれ！コード学園JavaちゃんVer1.01/Javaちゃん/face.png
-map_d /Users/ta/Documents/assets/mmd/Javachan_Ver1.01/はしれ！コード学園JavaちゃんVer1.01/Javaちゃん/face.png
+map_Kd face.png
+map_d face.png
 
 newmtl 材質7
 Ns 96.078431
@@ -182,8 +182,8 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd /Users/ta/Documents/assets/mmd/Javachan_Ver1.01/はしれ！コード学園JavaちゃんVer1.01/Javaちゃん/face.png
-map_d /Users/ta/Documents/assets/mmd/Javachan_Ver1.01/はしれ！コード学園JavaちゃんVer1.01/Javaちゃん/face.png
+map_Kd face.png
+map_d face.png
 
 newmtl 材質8
 Ns 96.078431
@@ -194,8 +194,8 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd /Users/ta/Documents/assets/mmd/Javachan_Ver1.01/はしれ！コード学園JavaちゃんVer1.01/Javaちゃん/face.png
-map_d /Users/ta/Documents/assets/mmd/Javachan_Ver1.01/はしれ！コード学園JavaちゃんVer1.01/Javaちゃん/face.png
+map_Kd face.png
+map_d face.png
 
 newmtl 材質9
 Ns 96.078431
@@ -206,5 +206,5 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.000000
 d 1.000000
 illum 2
-map_Kd /Users/ta/Documents/assets/mmd/Javachan_Ver1.01/はしれ！コード学園JavaちゃんVer1.01/Javaちゃん/face.png
-map_d /Users/ta/Documents/assets/mmd/Javachan_Ver1.01/はしれ！コード学園JavaちゃんVer1.01/Javaちゃん/face.png
+map_Kd face.png
+map_d face.png
