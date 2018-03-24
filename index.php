@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width,initial-scale=1">
   <title>A-Frame で超簡単 AR</title>
 </head>
-<body style="margin:0; overflow:hidden;">
+<body>
 <!-- A-Frame ライブラリの読み込み -->
 <script src="https://aframe.io/releases/0.6.1/aframe.min.js"></script>
 <!-- AR.js ライブラリの読み込み -->
