@@ -15,8 +15,8 @@
 <a-scene embedded arjs="debugUIEnabled:false;">
   <!-- OBJ形式のCGモデルの読み込み -->
   <a-assets>
-    <a-asset-item id="obj" src="assets/rocket.obj"></a-asset-item>   <!-- objファイル -->
-    <a-asset-item id="mtl" src="assets/rocket.mtl"></a-asset-item>   <!-- mtlファイル -->
+    <a-asset-item id="obj" src="assets/java.obj"></a-asset-item>   <!-- objファイル -->
+    <a-asset-item id="mtl" src="assets/java.mtl"></a-asset-item>   <!-- mtlファイル -->
   </a-assets>
   <!-- マーカーを登録（プリセットされている「hiro」マーカー） -->
   <a-marker preset="hiro">
