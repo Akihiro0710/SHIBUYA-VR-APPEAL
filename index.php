@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width,initial-scale=1">
   <title>A-Frame で超簡単 AR</title>
 </head>
-<body style="margin:0px; overflow:hidden;">
+<body style="margin:0; overflow:hidden;">
 <!-- A-Frame ライブラリの読み込み -->
 <script src="https://aframe.io/releases/0.6.1/aframe.min.js"></script>
 <!-- AR.js ライブラリの読み込み -->
@@ -15,8 +15,8 @@
 <a-scene embedded arjs="debugUIEnabled:false;">
   <!-- OBJ形式のCGモデルの読み込み -->
   <a-assets>
-    <a-asset-item id="obj" src="assets/java.obj"></a-asset-item>   <!-- objファイル -->
-    <a-asset-item id="mtl" src="assets/java.mtl"></a-asset-item>   <!-- mtlファイル -->
+    <a-asset-item id="obj" src="assets/java/java.obj"></a-asset-item>   <!-- objファイル -->
+    <a-asset-item id="mtl" src="assets/java/java.mtl"></a-asset-item>   <!-- mtlファイル -->
   </a-assets>
   <!-- マーカーを登録（プリセットされている「hiro」マーカー） -->
   <a-marker preset="hiro">
@@ -38,5 +38,19 @@
   <!-- AR用のカメラを置く -->
   <a-entity camera></a-entity>
 </a-scene>
+<div id="like_button">
+  いいね
+</div>
 </body>
+<script>
+  (function () {
+    var countHolder = document.createElement('div');
+    var count = 0;
+    var button = document.getElementById('like_button');
+    button.appendChild(countHolder);
+    button.addEventListener('click', function () {
+      countHolder.innerText = count;
+    })
+  })();
+</script>
 </html>
